@@ -1,2 +1,2 @@
-# All About Udacity Product Management
+# All About Udacity Design
 
