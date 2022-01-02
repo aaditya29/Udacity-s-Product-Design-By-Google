@@ -1,2 +1,2 @@
-# All About Udacity Design
+# All About Udacity's Product Design By Google
 
